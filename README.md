@@ -1,5 +1,4 @@
 # Tic Tac Toe Kata
-Link: https://github.com/MYOB-Technology/General_Developer/blob/main/katas/kata-foundational/foundational-kata-tictactoe.md
 
 ## Description
 The goal of this kata is to follow the TDD process, utilise Test Doubles (Mocks, Spies and Stubs) using custom-implementations at the start of development, then switch to the Moq framework. A Bottom-Up approach will be followed.
